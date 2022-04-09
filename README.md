@@ -86,3 +86,4 @@ ApartmentFinder will allow owners to post apartments available for rent in a cer
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+- Jamboard File <a href="https://jamboard.google.com/d/1_zVTj0hE1njHlflr-SEYPWORp0ulr4u_iOf0H3HHYSw/viewer?f=0" >here</a>
